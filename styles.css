@@ -1,0 +1,57 @@
+/*Estilos para todos los h1*/
+h1{
+color: rgba(1, 1, 58, 0.541);/*color de letra*/
+text-align: center;/*alinear el texto*/
+background-color: rgb(13, 80, 1);/*color del fondo*/
+
+
+}
+body{
+    background-color: rgb(229, 255, 0);
+    font-family: 'Permanent Marker', cursive;   
+}
+p{
+    color: rgb(68, 68, 68);
+    font-size: 30px;
+    
+}
+
+.menu{
+    color: rgb(255, 0, 0);    
+    display: flex;/* Me permite poner los elementos flexibles */
+    justify-content: center;
+    font-family: 'Permanent Marker', cursive;     
+}
+
+.menu li{
+    list-style: none;
+    margin-left: 90px;
+}
+
+.input_contacto{
+    width: 40%; /* ancho de un elemento */
+    border:2px rgb(15, 180, 131) solid;
+}
+
+.div_contact{
+    margin-top: 2px;
+}
+
+.boton_contacto{
+    text-align: center;
+    margin-top: 30px    ;
+}
+form{
+    text-align: center;
+    width: 50%;
+    margin-left: 20%;
+}
+.fondo-azul{
+    background-color: blue;
+    height: 100px;
+    margin: 5px;
+}
+.alto-carousel{
+    height: 400px;
+}
+
